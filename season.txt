@@ -1,0 +1,9 @@
+# Summer
+Beaches:104.99
+Fishing:79.99
+Hiking:59.99
+# Winter
+Sking:125.99
+Cabins:74.99
+Mountain Climbing:89.99
+
